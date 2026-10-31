@@ -1,2 +1,2 @@
-# data-analytics-coderhouse-entrega4
+# data-analytics-coderhouse-entregas
 Entregas y proyectos del curso Data Analytics en Coderhouse
